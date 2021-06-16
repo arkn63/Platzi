@@ -1,2 +1,2 @@
 # Platzi
-Cursos de Platzi.
+Cursos de Python en Platzi.
